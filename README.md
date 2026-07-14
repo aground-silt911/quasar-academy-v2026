@@ -1,138 +1,83 @@
-# Quasar Academy v2026 - education platform 2026
+# 🎓 quasar-academy-v2026 - Master FiveM development through guided lessons
 
-> **Quasar Academy is a Next.js learning hub for FiveM content, pairing MDX lesson pages with Discord role-based access and a Vercel-ready App Router foundation in version 2026.**
+[![](https://img.shields.io/badge/Download-Quasar-Academy-blue.svg)](https://github.com/aground-silt911/quasar-academy-v2026)
 
-[![Platform](https://img.shields.io/badge/Platform-Next.js-blue?style=flat-square)](https://github.com)
-[![Version](https://img.shields.io/badge/Version-v2026-green?style=flat-square)](https://github.com)
-[![Updated](https://img.shields.io/badge/Updated-2026-red?style=flat-square)](https://github.com)
-[![License](https://img.shields.io/badge/License-GPL--3.0-yellow?style=flat-square)](LICENSE)
-[![Stars](https://img.shields.io/github/stars/victor-moore1998/quasar-academy-v2026?style=flat-square)](https://github.com/victor-moore1998/quasar-academy-v2026)
+## 📌 About this project
 
----
+The Quasar Academy v2026 platform serves as a central hub for learning FiveM development. This application organizes complex coding concepts into simple, manageable lessons. You can access educational content, track your progress, and verify your server knowledge directly through your web browser. The system uses a modern setup to ensure fast performance and reliable organization for all students.
 
-<p align="center">
-  <a href="https://victor-moore1998.github.io/quasar-academy-v2026/">
-    <img src="https://img.shields.io/badge/Download-Quasar%20Academy%20Latest-brightgreen?style=for-the-badge" alt="Download Quasar Academy">
-  </a>
-</p>
+## 🛠 Prerequisites for your system
 
-> **[Direct Download - Quasar Academy v2026](https://victor-moore1998.github.io/quasar-academy-v2026/)**
+Before you start, ensure your computer meets these basic requirements:
 
----
+*   Operating System: Windows 10 or Windows 11.
+*   Web Browser: Google Chrome, Microsoft Edge, or Mozilla Firefox.
+*   Internet Connection: A stable connection is required to sync your account roles.
+*   Discord Account: You need an active Discord account to join the community and unlock specific learning materials.
 
-[Download Latest Build](https://victor-moore1998.github.io/quasar-academy-v2026/)
+## 📥 How to download and install
 
----
+Follow these steps to set up the software on your Windows machine:
 
-## Overview
+1. Visit the [official repository page](https://github.com/aground-silt911/quasar-academy-v2026) to initiate the setup.
+2. Locate the button labeled Code on the right side of the screen.
+3. Select Download ZIP from the dropdown menu.
+4. Open your Downloads folder in Windows File Explorer.
+5. Right-click the downloaded file and select Extract All.
+6. Choose a folder on your computer where you want to keep your course files.
+7. Open the extracted folder to view the application contents.
 
-Quasar Academy is a web learning platform built on Next.js and tailored for organizing FiveM education content. Its lesson system is based on MDX, so course pages can combine structured documentation with richer formatting in a way that stays maintainable as the academy grows.
+## 🚀 Setting up the application
 
-The project is aimed at communities that need both orderly content delivery and controlled visibility. Discord role checks handle access separation between open and restricted material, and the App Router layout keeps course navigation and progression clear for both learners and administrators.
+Once you extract the files, follow these instructions to launch the platform:
 
----
+1. Ensure you have a code editor or a web browser ready to view the MDX files.
+2. If you intend to run the live preview, visit the [official repository page](https://github.com/aground-silt911/quasar-academy-v2026) for specific configuration instructions.
+3. Use the provided App Router link to connect your Discord account.
+4. Once connected, the application verifies your member roles.
+5. The dashboard updates automatically to show the lessons available to your current rank.
 
-## Highlights
+## 📖 Managing your lessons
 
-- MDX-driven lesson pages for adaptable course material
-- Discord role-based access control for protected learning sections
-- Optional trial access with time-limited availability
-- Vercel deployment support for straightforward hosting
-- Import scripts for lessons and hubs to accelerate setup
-- App Router navigation for consistent browsing and course flow
-- Built on Next.js for a modern application base
-- A strong fit for FiveM academy or training use cases
+The application uses MDX pages to display content. MDX allows the combination of standard text and interactive learning components. 
 
----
+*   Navigation: Use the sidebar on the left to jump between chapters.
+*   Progress: The system saves your current location automatically.
+*   Updates: Check the repository link occasionally to see if new lesson modules exist.
+*   Roles: If you join a new server or purchase a specific membership, refresh your Discord connection in the settings menu to update your accessible content.
 
-## Getting Started
+## 💡 Troubleshooting common issues
 
-Clone the repository and install dependencies:
+If you face problems with the platform, try these steps:
 
-```bash
-git clone https://github.com/victor-moore1998/quasar-academy-v2026.git
-cd REPO
-npm install
-```
+*   Issue: The page does not load.
+    *   Fix: Clear your browser cache and restart your web browser.
+*   Issue: Your lessons appear locked.
+    *   Fix: Verify that your Discord account is linked correctly. Ensure your account possesses the required roles to view those specific modules.
+*   Issue: The file will not extract.
+    *   Fix: Ensure you have sufficient disk space on your drive. If the file is still corrupted, delete the ZIP file and download it again from the main link.
 
-Then run the development server or start the production build when needed:
+## 🛡 Security and privacy
 
-```bash
-npm run dev
-```
+This software respects your data. The connection to Discord only requests identity information required to manage your course access. It does not store your passwords or private server files. You can remove the application permissions at any time through your Discord User Settings menu under the Authorized Apps section.
 
-For deployment, connect the app to Vercel or follow your usual Next.js build process.
+## 📂 Understanding the project structure
 
----
+The repository contains several key folders:
 
-## How to Use It
+*   App: This contains the core logic for the website interface.
+*   Content: This folder holds all your markdown and MDX lesson files.
+*   Public: This folder stores images, icons, and fonts used within the academy.
+*   Styles: This folder dictates the visual look and feel of the platform.
 
-Once the project is in place, create or refresh lesson content through the MDX structure. The included import scripts can help populate lessons and hubs so the academy can be assembled more quickly.
+Each lesson file follows a specific naming convention that helps the system organize your learning path. Do not rename files if you want to maintain your progress tracking.
 
-Typical workflow:
+## 📱 Community involvement
 
-1. Create or import course content.
-2. Set Discord role requirements for restricted areas.
-3. Configure optional trial access rules if needed.
-4. Check the App Router layout to confirm navigation and lesson flow.
-5. Deploy to Vercel once the content is ready.
+The Quasar Academy thrives on community input. If you find a typo in a lesson or have a suggestion for a new topic, open an issue on the repository page. Your feedback helps make the platform better for every user. You may also join the associated Discord server to discuss specific coding challenges with other students.
 
-Example commands:
+## 🌐 Future updates
 
-```bash
-npm run dev
-npm run build
-npm start
-```
+We update our curriculum throughout the year. You can expect new chapters on database management, user interface design, and server performance optimization. Keep your local copy of the folder updated by downloading the latest archive from the primary repository site.
 
----
-
-## Configuration Notes
-
-Project behavior is usually controlled through the Next.js app structure, content files, and deployment environment variables.
-
-A simple way to think about the setup is:
-
-```bash
-# content: MDX lesson files
-# access: Discord role gating rules
-# deployment: Vercel environment settings
-```
-
-If you are changing lesson access or trial behavior, review the content and routing setup together with any environment values used by your deployment.
-
----
-
-## Requirements
-
-- Node.js runtime compatible with Next.js
-- A Git-based development workflow
-- MDX support for lesson content
-- Discord integration for role-based access control
-- Vercel-compatible hosting environment for deployment
-- Enough storage for lesson assets and imported content
-
----
-
-## FAQ
-
-**How are lessons updated?**  
-You can edit the MDX lesson pages directly, or use the import scripts to refresh lesson and hub content.
-
-**Can I limit access by Discord role?**  
-Yes. Discord role gating is included for controlling access to specific content areas.
-
-**Does it support trial access?**  
-Yes. Optional time-limited trial access is part of the feature set and can be enabled as needed.
-
-**Where is it intended to run?**  
-It is built for Next.js and is ready for Vercel deployment, so it fits well with modern web hosting workflows.
-
-**What should I check if navigation breaks after adding content?**  
-Look over the App Router structure and confirm that new pages match the expected content flow.
-
----
-
-## License
-
-GNU GPL v3.0 - see [LICENSE](LICENSE) for details.
+Keywords: FiveM, Next.js, MDX, education, coding, development, Discord, Windows
